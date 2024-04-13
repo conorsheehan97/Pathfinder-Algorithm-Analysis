@@ -1,0 +1,13 @@
+Point Bar,Ahernes,Berties,The Nook,The Red Store,Old Imperial,Anchor,Tynans,Moby Dicks, Quays,JD's,Hennesys
+null,85,140,200,240,300,450,270,700,850,700,800
+null,null,55,120,160,220,400,180,650,750,600,700
+null,null,null,62,100,170,300,130,550,700,550,650
+null,null,null,null,40,100,260,63,500,650,500,600
+null,null,null,null,null,62,220,23,450,600,450,550
+null,null,null,null,null,null,170,39,400,550,400,500
+null,null,null,null,null,null,null,200,260,400,400,500
+null,null,null,null,null,null,null,null,450,550,400,500
+null,null,null,null,null,null,null,null,null,120,180,140
+null,null,null,null,null,null,null,null,null,null,110,100
+null,null,null,null,null,null,null,null,null,null,null,210
+null,null,null,null,null,null,null,null,null,null,null,null
